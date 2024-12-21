@@ -15,7 +15,7 @@ const MOCK_PRICES = {
 
 export async function getStockPriceFromAPI(symbol) {
   try {
-    const apiKey = 'ctilsdhr01qm6mune8v0ctilsdhr01qm6mune8vg';
+    const apiKey = process.env.REACT_APP_API_KEY;
     const url = `https://finnhub.io/api/v1/quote?symbol=${symbol}&token=${apiKey}`;
     
     const response = await axios.get(url);
