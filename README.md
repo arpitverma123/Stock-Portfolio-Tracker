@@ -40,6 +40,9 @@ Check out the live application here: [Stock Portfolio Tracker](https://arpit-sto
 
 ---
 
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/39f2c3a4-a8eb-409c-94fd-d1c6ea826198" />
+
+
 ## 📋 Usage Instructions
 
 ### Getting Started
