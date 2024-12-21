@@ -105,6 +105,12 @@ Check out the live application here: [Stock Portfolio Tracker](https://arpit-sto
 
 ---
 
+## Limitations
+> The API rate limit is very less.
+> So, to resolve this i have made a MOCK data to show if API rate limit is reached.
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
